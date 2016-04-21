@@ -1,0 +1,175 @@
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 16:13:09
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 16:15:17
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 16:43:36
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 16:46:16
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 16:48:10
+version
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 16:48:40
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 16:51:03
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 16:51:16
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 21:44:00
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 21:49:21
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 21:50:25
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 21:50:34
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 21:50:53
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 21:59:11
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-20 22:00:44
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-20 22:07:57
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-21 12:27:04
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-21 12:31:04
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 11:34:26
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 11:38:07
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 11:39:03
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 11:47:28
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 11:48:43
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 11:52:57
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 11:57:25
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 12:08:51
+cls
+!
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 12:20:05
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 12:23:17
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 12:27:20
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 12:32:16
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 12:33:13
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 12:35:27
+// Spring Shell 1.1.0.RELEASE log opened at 2016-02-22 12:37:23
+exit
+// Spring Shell 1.1.0.RELEASE log closed at 2016-02-22 12:50:50
+// Spring Shell 1.2.0.M1 log opened at 2016-02-22 13:06:02
+version
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-22 13:16:46
+// Spring Shell 1.2.0.M1 log opened at 2016-02-22 18:14:25
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-22 18:15:11
+// Spring Shell 1.2.0.M1 log opened at 2016-02-23 15:48:54
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-23 15:49:08
+// Spring Shell 1.2.0.M1 log opened at 2016-02-23 21:34:03
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-23 21:34:39
+// Spring Shell 1.2.0.M1 log opened at 2016-02-24 00:49:24
+sm start
+sm print
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-24 00:51:52
+// Spring Shell 1.2.0.M1 log opened at 2016-02-24 01:24:49
+sm print
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-24 01:25:07
+// Spring Shell 1.2.0.M1 log opened at 2016-02-24 01:33:57
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-24 01:34:11
+// Spring Shell 1.2.0.M1 log opened at 2016-02-24 01:34:44
+sm print
+sm start
+sm variables
+sm stop
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-24 01:36:34
+// Spring Shell 1.2.0.M1 log opened at 2016-02-24 02:05:22
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm stop
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-02-24 02:06:07
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 17:42:42
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm stop
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 17:46:16
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 17:57:28
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 17:57:49
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 17:58:50
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 17:59:13
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 18:01:26
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 18:01:58
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 18:02:02
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 18:02:14
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 18:15:16
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 18:15:51
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 18:17:13
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 18:17:42
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 19:16:20
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 19:23:40
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 19:23:51
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 19:25:46
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 19:29:05
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+sm event ARTIFACT_NOTIFICATION_EVENT
+sm event DEPLOY_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 19:30:51
+// Spring Shell 1.2.0.M1 log opened at 2016-03-03 19:35:24
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-03 19:35:47
+// Spring Shell 1.2.0.M1 log opened at 2016-03-05 09:17:58
+sm start
+sm event ARTIFACT_NOTIFICATION_EVENT
+exit
+// Spring Shell 1.2.0.M1 log closed at 2016-03-05 09:19:28
