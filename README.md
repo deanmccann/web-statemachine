@@ -1,9 +1,19 @@
 ------
 
+What is this?
+
+My experiments with Spring State Machine
+
+
+------
+
 Build Info
 
+CodeShip [ ![Codeship Status for deanmccann/web-statemachine](https://codeship.com/projects/379d8ea0-f102-0133-aac5-3e251e5cf642/status?branch=master)](https://codeship.com/projects/149327) 
 
-https://codeship.com/projects/149327/status?branch=master
+Deployed to AWS 
+
+
 ------
 
 
