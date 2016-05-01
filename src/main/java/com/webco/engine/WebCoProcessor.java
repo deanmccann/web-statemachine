@@ -1,8 +1,10 @@
 package com.webco.engine;
 
+import java.util.EnumSet;
+import java.util.Random;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.shell.Bootstrap;
 import org.springframework.statemachine.StateContext;
 import org.springframework.statemachine.action.Action;
 import org.springframework.statemachine.config.EnableStateMachine;
@@ -15,24 +17,15 @@ import org.springframework.statemachine.listener.StateMachineListener;
 import org.springframework.statemachine.listener.StateMachineListenerAdapter;
 import org.springframework.statemachine.state.State;
 
-import java.util.EnumSet;
-import java.util.Random;
-
 
  @Configuration
  public class WebCoProcessor {
 
-     public static void main(String[] args) throws Exception {
-         Bootstrap.main(args);
-     }
 
      @Configuration
      @EnableStateMachine
      static class StateMachineConfiguration
              extends EnumStateMachineConfigurerAdapter<States, Events> {
-
-
-
 
          @Override
          public void configure(StateMachineConfigurationConfigurer<States, Events> config)
