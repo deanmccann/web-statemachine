@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/webcoprocessor-1.0.jar
+web: java -Dserver.port=$PORT -jar target/web-statemachine-1.0.jar

@@ -26,11 +26,11 @@ public class StateMachineController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World!";
+        return "API State Machine Example";
     }
 
 	@RequestMapping("/event") 
-    public String greeting(@RequestParam(value="eventName", required=false, defaultValue="World") String name, Model model) {
+    public String greeting(@RequestParam(value="eventName", required=false, defaultValue="NOEVENT") String name, Model model) {
 		
 	 stateMachine.sendEvent(Events.ARTIFACT_NOTIFICATION_EVENT);
 	 stateMachine.sendEvent(Events.DEPLOY_NOTIFICATION_EVENT);
