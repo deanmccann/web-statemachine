@@ -5,11 +5,20 @@ package com.webco.engine;
  */
 public enum States {
 
-    READY, //Ready to process a request
-    RECIEVE, //Recieve External Notifiction of artifact production
-    AVAILABLE, //Verified Artifact exists. Available for deployment if event occurs.
-    UNAVAILABLE, //Artifact was not found in specified location
-    RUNNING, //Deployed and running in target environment
+	/**
+	 * These are PLATFORM states; the platform will return one of these.
+	 */
+
+    DEFINITION, // 
+    SANDBOX, // 
+    PUBLISHEDV1, //
+    PUBLISHEDPATCHED, //
+    ARCHIVED, //
+    
+    // 
+    RUNNING, //
+    STOPPED, // 
+    IN_MAINTENANCE, //
     ERROR
 
 }

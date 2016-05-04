@@ -2,7 +2,7 @@
 http://bramp.github.io/js-sequence-diagrams/
 
 ```sequence
-Title: Platform (A) Flow
+Title: Platform Flow
 Intial->Sandbox: Deploy
 Sandbox->Published: Deploy
 Note right of Published: Published started?\nnot sure
@@ -12,6 +12,8 @@ Published->Archived:
 ```
 
 ----------
+![enter image description here](file:diagram.svg)
+
 
 
 ```flow
